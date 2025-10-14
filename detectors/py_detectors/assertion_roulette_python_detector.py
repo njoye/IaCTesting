@@ -11,7 +11,7 @@ import ast
 class AssertionRoulettePythonDetector(AntiPatternDetector ):
     
     def __init__(self):
-       
+        # random change
         self.__anti_pattern_count = 0
         
     
